@@ -13,7 +13,6 @@ This project demonstrates how to build and integrate a local MCP server with Cla
 The server runs locally and communicates with Claude Desktop through the MCP standard over standard input and output.
 
 ## Features
-
 - `get_stock_price(symbol: str)`  
   Returns the latest closing price of a stock.
   <img width="2557" height="907" alt="image" src="https://github.com/user-attachments/assets/828aca18-0ed5-468a-af33-38bdb81e6076" />
@@ -41,5 +40,6 @@ The server runs locally and communicates with Claude Desktop through the MCP sta
 
 <img width="1517" height="1189" alt="image" src="https://github.com/user-attachments/assets/16bac781-3f17-4f56-a61d-304f425c64fc" />
 <img width="1610" height="856" alt="image" src="https://github.com/user-attachments/assets/35f9cf66-47ea-4d27-8a11-253b931b9310" />
+
 
 
